@@ -6,7 +6,7 @@
 ### mysql
 ### Bootstarp
 
-##NOTE: After Open React Project Install needed dependencies
+## NOTE: After Open React Project Install needed dependencies
 
 
 ## Login page 
