@@ -6,6 +6,9 @@
 ### mysql
 ### Bootstarp
 
+##NOTE: After Open React Project Install needed dependencies
+
+
 ## Login page 
 ### So login in login page we are used jwt authentication so if admin have proper credential so admin can be able to login.If admin has wronng credential then we show the message likr invalide credentials.
 
